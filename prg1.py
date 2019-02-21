@@ -1,5 +1,5 @@
 def test1():
-    print ("test")
+    print ("Hello World")
 
 def test2():
     print ("test2")
